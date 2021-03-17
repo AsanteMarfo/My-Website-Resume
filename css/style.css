@@ -504,6 +504,10 @@ header {
   color: white;
 }
 
+/*trying*/
+.newspaper {
+  column-count: 3;
+}
 
 
 .fa-linkedin {
